@@ -41,7 +41,7 @@ Dai
 Bevi
 \xf000ȃ\x0001\x0000まい
 Chiudi
-Cosa a riguardo\xf000ĉ\x0001\x0000?
+Cosa vuoi fare\xf000ĉ\x0001\x0000?
 Non puoi scrivere una\xfffemail qui！
 Non ci sono pokèmon!
 Muovi \xf000ĉ\x0001\x0000.
