@@ -1,51 +1,51 @@
-『Search Mode』
-Please enter the search criteria.
-『Search Results』
-\xf000Ȃ\x0001\x0000 was not found.
-Please enter the order.
-Please enter the first letter in the name.
-Please enter the type.
-Please enter the form.
-Please enter the color.
-Pokémon found!
-No Pokémon found...
-Searching...
-ORDER
-NAME
-TYPE
-COLOR
-FORM
-Unova Pokédex: Search Mode
-National Pokédex: Search Mode
+『Modalità ricerca』
+Inserisci i criteri di ricerca perfavore.
+『Risultati della ricerca』
+\xf000Ȃ\x0001\x0000 Non è stato trovato nulla.
+Perfavore inserisci l'ordine.
+Perfavore inserisci la prima lettera del nome.
+Perfavore inserisci il tipo.
+Perfavore inserisci la forma.
+Perfavore inserisci il colore.
+Pokémon trovato!
+Non è stato trovato nessun Pokémon ...
+Ricerca...
+ORDINE
+NOME
+TIPO
+COLORE
+FORMA
+Pokédex Unima: Modalità ricerca
+Pokédex Nazionale: Modalità ricerca
 RESET
-START
-CANCEL
+INIZIA
+CANCELLA
 \xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-ACCEPT
-CANCEL
-Number
-A to Z
-Heavy to Light
-Light to Heavy
-Tall to Short
-Short to Tall
-Dark
-Rock
-Psychic
-Fighting
-Grass
-Ice
-Ghost
-Ground
-Electric
-Poison
-Dragon
-Normal
-Steel
-Flying
-Fire
-Water
-Bug
+ACCETTA
+CANCELLA
+Numero
+A-Z
+Male a Luce
+Luce a Male
+Alto a basso
+Basso a alto
+Buoi
+Roccia
+Psychico
+Lotta
+Erba
+Ghiaccio
+Spettro
+Terra
+Elettrico
+Veleno
+Drago
+Normale
+Acciaio
+Volante
+Fuoco
+Acqua
+Insetto
 ――――
 ／
 ――――
@@ -94,14 +94,14 @@ Z
 
 
 ―
-Red
-Blue
-Yellow
-Green
-Black
-Brown
-Purple
-Gray
-White
-Pink
+Rosso
+Blu
+Giallo
+Verde
+Nero
+Marrone
+Viola
+Grigio
+Bianco
+Rosa
 ――――
