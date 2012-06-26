@@ -17,43 +17,43 @@ Tempo limite:
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
 RECORD PRECEDENTI
-Colosseum Singolo,\xfffeNessuna restrinzione
-Colosseum Single,\xfffeNo Restrictions, Launcher On
-Colosseum Single,\xfffeFlat, Launcher On
-Colosseum Double,\xfffeNo Restrictions
-Colosseum Double,\xfffeFlat
-Colosseum Double,\xfffeNo Restrictions, Launcher On
-Colosseum Double,\xfffeFlat, Launcher On
-Colosseum Triple,\xfffeNo Restrictions
-Colosseum Triple,\xfffeFlat
-Colosseum Triple,\xfffeNo Restrictions, Launcher On
-Colosseum Triple,\xfffeFlat, Launcher On
-Colosseum Rotation,\xfffeNo Restrictions
-Colosseum Rotation,\xfffeFlat
-Colosseum Rotation,\xfffeNo Restrictions, Launcher On
-Colosseum Rotation,\xfffeFlat, Launcher On
-Colosseum Multi,\xfffeNo Restrictions
-Colosseum Multi,\xfffeFlat
-Colosseum Multi,\xfffeNo Restrictions, Launcher On
-Colosseum Multi,\xfffeFlat, Launcher On
-Battle Subway,\xfffeSingle
-Battle Subway,\xfffeDouble
-Battle Subway,\xfffeMulti
-Random Matchup, Free\xfffeSingle
-Random Matchup, Free\xfffeDouble
-Random Matchup, Free\xfffeTriple
-Random Matchup, Free\xfffeRotation
-Random Matchup, Free\xfffeLauncher Battle
-Random Matchup, Rating\xfffeSingle
-Random Matchup, Rating\xfffeDouble
-Random Matchup, Rating\xfffeTriple
-Random Matchup, Rating\xfffeRotation
-Random Matchup, Rating\xfffeLauncher Battle
-たいかい　シングル\xfffeシューターなし
-たいかい　シングル\xfffeシューターあり
-たいかい　ダブル\xfffeシューターなし
-たいかい　ダブル\xfffeシューターあり
-たいかい　トリプル\xfffeシューターなし
-たいかい　トリプル\xfffeシューターあり
-たいかい　ローテーション\xfffeシューターなし
-たいかい　ローテーション\xfffeシューターあり
+Colosseo Singolo,\xfffeNessuna restrinzione
+Colosseo Singolo,\xfffeNessuna restrinzione, Mirabilanciere Si
+Colosseo Singolo,\xfffeLivello, Mirabilanciere Si
+Colosseo Doppio,\xfffeNessuna restrinzione
+Colosseo Doppio,\xfffeLivello
+Colosseo Doppio,\xfffeNessuna restrinzione, Mirabilanciere Si
+Colosseo Doppio,\xfffeLivello, Mirabilanciere Si
+Colosseo Triplo,\xfffeNessuna restrinzione
+Colosseo Triplo,\xfffeLivello
+Colosseo Triplo,\xfffeNessuna restrinzione, Mirabilanciere Si
+Colosseo Triplo,\xfffeLivello, Mirabilanciere Si
+Colosseo Rotazione,\xfffeNessuna restrinzione
+Colosseo Rotazione,\xfffeLivello
+Colosseo Rotazione,\xfffeNessuna restrinzione, Mirabilanciere Si
+Colosseo Rotazione,\xfffeLivello, Mirabilanciere Si
+Colosseo Multipla,\xfffeNessuna restrinzione
+Colosseo Multipla,\xfffeLivello
+Colosseo Multipla,\xfffeNessuna restrinzione, Mirabilanciere Si
+Colosseo Multipla,\xfffeLivello, Mirabilanciere Si
+Metrò lotta,\xfffeSingolo
+Metrò lotta,\xfffeDoppio
+Metrò lotta,\xfffeMultipla
+Abbinamento a caso, Libero\xfffeSingolo
+Abbinamento a caso, Libero\xfffeDouppio
+Abbinamento a caso, Libero\xfffeTriplo
+Abbinamento a caso, Libero\xfffeRotazione
+Abbinamento a caso, Libero\xfffeBattaglia mirabilanciere
+Abbinamneto a caso, Punteggio\xfffeSingolo
+Abbinamento a caso, Punteggio\xfffeDoppio
+Abbinamento a caso, Punteggio\xfffeTriplo
+Abbinamento a caso, Punteggio\xfffeRotazione
+Abbinamento a caso, Punteggio\xfffeBattaglia mirabilanciere
+Torneo singolo\xfffeMirabilanciere No
+Torneo singolo\xfffeMirabilanciere Si
+Torneo Doppio\xfffeMirabilanciere No
+Torneo Doppio\xfffeMirabilanciere Si
+Torneo Triplo\xfffeMirabilanciere No
+Torneo triplo\xfffeMirabilanciere Si
+Torneo Rotazione\xfffeMirabilanciere No
+Torneo Rotazione\xfffeMirabilanciere Si
