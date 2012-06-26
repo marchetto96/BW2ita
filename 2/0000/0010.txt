@@ -1,21 +1,21 @@
-NAME:
-WORK:
+NOME:
+LAVORO:
 HOBBY:
-TIME:
+TEMPO:
 \xf000ļ\x0001\x0000
 \xf000ļ\x0001\x0000
 \xf000봃\x0001\x0000\xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-FROM:
+PROVENIENZA:
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-Number of times thanked:\xfffeNumber of people passed by:
+Numero dei ringraziamenti:\xfffeNumero di persone passate da:
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000かい\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001にん
 \xf000Ȅ\x0001\x0001にん
 \xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-Passerby time:　ＡＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
-Passerby time:　ＰＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
-Battling　\xf000ā\x0001\x0000a\xfffewild
-Battling a\xfffespecial Pokémon
-Battling \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001
-Battling a Gym Leader
-Battling a special Trainer
-Moving through \xf000ą\x0001\x0000
+Tempo trascorso:　ＡＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
+Tempo trascorso:　ＰＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
+Affrontando　\xf000ā\x0001\x0000a\xfffeselvatici
+Affrontando un\xfffePokémon speciale
+Affrontando \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001
+Affrontando un capopalestra
+Affrontando un allenatore speciale
+Muovendosi per la \xf000ą\x0001\x0000
